@@ -12,7 +12,14 @@ class Alumno{
     public function getNombre(): string{
         return $this->nombre;
     }
+
+    public function getApellido(): string{
+        return $this->apellido;
+    }
 }
+
+$objeto = new Alumno("Lucas", "Linquiman");
+echo $objeto->getNombre();
 
 echo "Hola Mundo"; // prueba
 
