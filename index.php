@@ -1,5 +1,11 @@
 <?php
 
-echo "Hola Mundo";
+class Alumno{
+    
+}
+
+echo "Hola Mundo"; // prueba
+
+
 
 ?>
