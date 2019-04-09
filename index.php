@@ -1,5 +1,7 @@
 <?php
 
+// Sincronizacion GitHub - Taiga
+
 class Alumno{
     protected $nombre;
     protected $apellido;
