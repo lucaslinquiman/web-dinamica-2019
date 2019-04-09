@@ -25,6 +25,4 @@ echo $objeto->getNombre();
 
 echo "Hola Mundo"; // prueba
 
-
-
 ?>
