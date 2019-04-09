@@ -2,6 +2,8 @@
 
 // Sincronizacion GitHub - Taiga
 
+// PHP 7.0
+
 class Alumno{
     protected $nombre;
     protected $apellido;
