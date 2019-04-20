@@ -1,0 +1,72 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(6, auto);
+    /*justify-items: center;
+    align-items: center;*/
+    grid-template-areas: 
+    "cabecera       cabecera        cabecera"
+    "menu			menu			menu"
+    "slider         slider          slider"
+    "contenido        contenido         contenido"
+    "contenido        contenido         contenido"
+    "widget_01        widget_01         widget_02"
+    "pie            pie                pie";
+}
+
+.container .cabecera {
+    grid-column: cabecera;
+    grid-row: cabecera;
+    /*overflow: hidden;*/
+    # width: 96%;
+    # margin: auto;
+    align-self: start;
+    justify-self: stretch;
+    text-align: center;
+}
+
+
+.cabecera-color {
+   background: #ff9100;
+
+}
+.container .slider {
+    # background: #9dcdec;
+    grid-column: slider;
+    grid-row: slider;
+}
+
+.container .menu {
+	grid-column: menu;
+	grid-row: menu;
+}
+
+.container .sidebar {
+    # background: #07ca31;
+    grid-column: sidebar;
+    grid-row: sidebar;
+}
+
+.container .contenido {
+    # background: #2f89fc;
+    grid-column: contenido;
+    grid-row: contenido;
+}
+
+.container .widget_01 {
+    # background: #9dcdec;
+    grid-column: widget_01;
+    grid-row: widget_01;
+}
+
+.container .widget_02 {
+    # background: #9dcdec;
+    grid-column: widget_02;
+    grid-row: widget_02;
+}
+
+.container .pie {
+    # background: #ff9100;
+    grid-column: pie;
+    grid-row: pie;
+}
