@@ -1,41 +1,42 @@
 .container {
-    border: 1px solid salmon;
+ /*  border: 1px solid salmon; */
 }
-
-/*div {
-	border: 1px solid blue;
-}*/
 
 body {
 	background-color: #f8f9fa;
+	color: white;
+	font-family: Arial;
+	font-size: 16px;
 }
 
 .titulo {
-	font-family: icomoon;
-	font-size: 22px;
+	font-size: 20px;
 	color: white;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
-.banner-a {
+
+img {
 	width: 100%;
 	height: auto;
-	max-height: 400px;
 }
 
 .contenido > p {
 	background-color: #950000;
-	font-family: icomoon;
-	font-size: 16px;
 	color: white;
-	margin-top: 5px;
-	text-align: center;
-	margin-bottom: 5px;
+    margin: auto;
+    padding: 1rem;
 }
 
-.contenido > p > img {
+.contenido .logo img {
+	width: 300px;
+	height: 300px;
+}
+
+.contenido p img {
 	margin: auto;
-	#width: 100%;
+	width: 125px;
+	height: 125px;
 	align-items: center;
 	justify-self: center;
 }
@@ -56,15 +57,87 @@ body {
 	background-color: #950000;
 }
 
-.texto-banner {
-	font-family: Impact;
-	font-size: 20px;
-	font-style: italic;
-	text-align: center;
-	color: #fb9b2b;
-	background-color: black;
+/* Footer */
+
+.container .pie .f1 a img,
+.container .pie .f3 a img {
+	width: inherit;
 }
 
-#kaka {
-	background-color: blue;
+.container .pie .f1, .f2, .f3 {
+	display: flex;
+	justify-self: center;
+	align-self: center;
 }
+
+.container .pie {
+	background: #680000;
+	#margin: auto;
+	font-size: 14px;
+	padding: 1rem;
+	border: 1px solid white;
+	color: white;
+}
+
+/* Fin footer */
+
+/* Formulario Estilos */
+
+
+.contenido {
+	background: #950000;
+}
+
+.contenido .direccion {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.contenido .direccion img {
+	width: 100%;
+	height: auto;
+}
+
+.formulario {
+	width: 70%;
+	color: white;
+	background: #950000;
+	border:2px solid antiquewhite;
+	border-radius: 25px;
+	box-sizing: border-box;
+	margin: 1rem auto;
+}
+
+.formulario form label,h3 {
+	padding: 5px;
+	# display: inline-block;
+}
+
+.formulario form input,textarea {
+	width: 100%;
+	padding: 5px;
+	margin: auto;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	# resize: horizontal;
+}
+
+.formulario form input[type=submit] {
+	color: white;
+	background: #4CAF50;
+	width: inherit;
+}
+
+.formulario form div {
+	margin-top: 5px;
+	display:flex;
+	justify-self: center;
+	align-self: center;
+}
+
+.borde-blanco {
+    border:2px solid white;
+    margin: auto;
+}
+
+/* Fin formulario */

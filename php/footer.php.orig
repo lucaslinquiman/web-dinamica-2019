@@ -1,0 +1,28 @@
+<div class="pie">
+    <div class="footer-ppal row align-items-center text-center">
+        <div class="col">
+            <a href="<?php echo 'http://'.$_SERVER['SERVER_ADDR'];?>">
+                <img id="imagen" src="images/logo_tiempos_150.png">
+            </a>
+        </div>
+        <div class="col">
+            Fabrica: Mitre 1500
+            <br>
+            Local: Paseo de los Artesanos - Puesto 22
+            <br>
+            Cordoba Capital - Argentina
+        </div>
+        <div class="col text-muted">
+            <a href="https://es-la.facebook.com/TiemposdeBarroCeramica/" target="_blank">
+                <img alt="Siguenos en Facebook" src="images/redes_sociales/logo_tiempos_150.png">
+                <br>
+                @TiemposdeBarroCeramica
+            </a>
+        </div>
+    </div>
+    <div class="card-footer text-muted text-center">
+        <?php
+            echo "Copyright © " . date("Y") . " - <i>Tiempos de Barro</i>. Todos los derechos reservados.";
+        ?>
+    </div>
+</div>

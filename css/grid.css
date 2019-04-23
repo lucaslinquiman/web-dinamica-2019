@@ -10,7 +10,6 @@
     "slider         slider          slider"
     "contenido        contenido         contenido"
     "contenido        contenido         contenido"
-    "widget_01        widget_01         widget_02"
     "pie            pie                pie";
 }
 
@@ -67,6 +66,51 @@
 
 .container .pie {
     # background: #ff9100;
+    display: grid;
     grid-column: pie;
     grid-row: pie;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, auto);
+    grid-template-areas:
+        "f1     f2      f3"
+        "f4     f4      f4"
+    ;
+}
+
+@media screen and (max-width: 768px) {
+
+    .container .pie {
+        grid-template-areas:
+                "f1		f1		f1"
+                "f2		f2		f2"
+                "f3		f3		f3"
+                "f4		f4		f4"
+    ;
+    }
+
+    .container .pie .f1 a img {
+        max-width: 100px;
+        height: auto;
+    }
+
+}
+
+.container .pie .f1 {
+    grid-column: f1;
+    grid-row: f1;
+}
+
+.container .pie .f2 {
+    grid-column: f2;
+    grid-row: f2;
+}
+
+.container .pie .f3 {
+    grid-column: f3;
+    grid-row: f3;
+}
+
+.container .pie .f4 {
+    grid-column: f4;
+    grid-area: f4;
 }
