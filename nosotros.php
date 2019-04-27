@@ -12,8 +12,8 @@
             ?>
 
             <div class="contenido">
-                <div class="logo text-center bordes">
-                    <img src="images/logo_tiempos_300.png">
+                <div class="logo text-center">
+                    <img id="logo-nosotros" src="/imagenes/006.png">
                 </div>
                 <p class="text-justify">
                     <br>

@@ -3,27 +3,54 @@
 }
 
 body {
-	background-color: #f8f9fa;
-	color: white;
+	# background-color: #f8f9fa;
+	background-image: url("/imagenes/002.png");
+	color: black;
 	font-family: Arial;
 	font-size: 16px;
 }
 
+/* Header */
 .titulo {
 	font-size: 20px;
-	color: white;
+	# color: white;
+	color: black;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
+
+.container .cabecera .navbar a img {
+	width: 125px;
+	height: auto;
+}
+
+/* Fin header */
 
 img {
 	width: 100%;
 	height: auto;
 }
 
+/* Contenido */
+
+.contenido {
+	background: #ffcc00;
+	border-radius: 5px;
+}
+
+.contenido .direccion {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.contenido .direccion img {
+	width: 100%;
+	height: auto;
+}
+
 .contenido > p {
-	background-color: #950000;
-	color: white;
+	# background-color: #950000;
+	color: black;
     margin: auto;
     padding: 1rem;
 }
@@ -41,6 +68,15 @@ img {
 	justify-self: center;
 }
 
+#logo-nosotros {
+	max-width: 300px;
+	height: auto;
+}
+
+/* Fin de contenido */
+
+/* Carousel */
+
 .carousel-inner img {
 	width: 100%;
     height: auto;
@@ -49,12 +85,14 @@ img {
     justify-items: center;
 }
 
+/* Fin de carousel */
+
 .bordes {
-	border: 5px solid #950000;
+	border: 5px solid #ffcc00;
 }
 
 .container .cabecera {
-	background-color: #950000;
+	background-color: #ffcc00;
 }
 
 /* Footer */
@@ -71,37 +109,30 @@ img {
 }
 
 .container .pie {
-	background: #680000;
-	#margin: auto;
 	font-size: 14px;
 	padding: 1rem;
 	border: 1px solid white;
-	color: white;
+	color: black;
+}
+
+.container .pie {
+	background: inherit;
+	# background-image: url("/imagenes/001.png");
+}
+
+#logo-footer {
+	max-width: 150px;
+	height: auto;
 }
 
 /* Fin footer */
 
 /* Formulario Estilos */
 
-
-.contenido {
-	background: #950000;
-}
-
-.contenido .direccion {
-	padding-left: 5px;
-	padding-right: 5px;
-}
-
-.contenido .direccion img {
-	width: 100%;
-	height: auto;
-}
-
 .formulario {
 	width: 70%;
-	color: white;
-	background: #950000;
+	color: black;
+	background: transparent;
 	border:2px solid antiquewhite;
 	border-radius: 25px;
 	box-sizing: border-box;
@@ -119,7 +150,6 @@ img {
 	margin: auto;
 	border: 1px solid #ccc;
 	border-radius: 4px;
-	# resize: horizontal;
 }
 
 .formulario form input[type=submit] {
@@ -139,5 +169,4 @@ img {
     border:2px solid white;
     margin: auto;
 }
-
 /* Fin formulario */

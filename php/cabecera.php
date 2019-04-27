@@ -1,7 +1,7 @@
 <div class="cabecera">
-    <nav class="navbar navbar-expand-lg navbar-dark">
+    <nav class="navbar navbar-expand-lg navbar-light">
         <a class="navbar-brand titulo" href="#">
-            Tiempos de barro
+            <img src="/imagenes/005_logo.png">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -18,10 +18,10 @@
 <div class="menu bordes">
     <ul class="nav nav-tabs justify-content-center">
         <li class="nav-item">
-            <a class="nav-link active" href="<?php echo 'http://'.$_SERVER['SERVER_ADDR'];?>">Inicio</a>
+            <a class="nav-link active" href="<?php echo 'http://'.$_SERVER['SERVER_NAME'];?>">Inicio</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="<?php echo 'http://'.$_SERVER['SERVER_ADDR'].'/nosotros.php';?>">Quienes somos</a>
+            <a class="nav-link" href="<?php echo 'http://'.$_SERVER['SERVER_NAME'].'/nosotros.php';?>">Quienes somos</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#">Catalogo</a>

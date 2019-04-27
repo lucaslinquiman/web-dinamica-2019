@@ -1,7 +1,7 @@
 <div class="pie">
     <div class="f1">
         <a href="<?php echo 'http://'.$_SERVER['SERVER_ADDR'];?>">
-            <img src="images/logo_tiempos_150.png" alt="Tiempos de Barro - logo">
+            <img id="logo-footer" src="/imagenes/006.png" alt="Tiempos de Barro - logo">
         </a>
     </div>
     <div class="f2 text-center">

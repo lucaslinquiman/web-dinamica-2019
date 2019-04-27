@@ -2,102 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="339b726d-2a9b-4aed-a63d-1fdf0ffffe28" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/git-info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Banner Ppal.xcf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Banner_Ppal.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0023.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0024.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0026.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0027.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0028.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0029.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0030.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0031.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0033.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0034.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0035.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0036.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0037.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0038.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0039.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0040.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0041.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0042.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0043.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0044.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0045.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0046.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0047.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0048.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0049.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0050.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0051.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0052.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0053.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0054.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0055.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0056.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0057.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0058.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0060.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0061.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0062.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/IMG-20190417-WA0063.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Screenshot_2019-04-10-18-11-52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Screenshot_2019-04-10-18-11-56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Screenshot_2019-04-10-18-12-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Screenshot_2019-04-10-18-12-12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Screenshot_2019-04-10-18-12-19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner_04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/diapo02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/drawing.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_tiempos.xcf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/presentacion.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/presentacion_banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider01.xcf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/02.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/header_tiempos.png" afterPath="$PROJECT_DIR$/images/header_tiempos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/header_tiemposb.jpg" afterPath="$PROJECT_DIR$/images/header_tiemposb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Trabajo Final.iml" afterPath="$PROJECT_DIR$/.idea/Trabajo Final.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/css/bootstrap.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/estilos.css" afterPath="$PROJECT_DIR$/css/estilos.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/grid.css" afterPath="$PROJECT_DIR$/css/grid.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/boostrap-4.3.1.min.js" afterPath="$PROJECT_DIR$/js/boostrap-4.3.1.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.js.map" afterPath="$PROJECT_DIR$/js/bootstrap.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/carousel/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/carousel/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/carousel/jquery.min.js" afterPath="$PROJECT_DIR$/js/carousel/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/carousel/popper.min.js" afterPath="$PROJECT_DIR$/js/carousel/popper.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core.js" afterPath="$PROJECT_DIR$/js/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery-3.3.1.js" afterPath="$PROJECT_DIR$/js/jquery-3.3.1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/popper-1.14.7.js" afterPath="$PROJECT_DIR$/js/popper-1.14.7.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nosotros.php" afterPath="$PROJECT_DIR$/nosotros.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/cabecera.php" afterPath="$PROJECT_DIR$/php/cabecera.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/footer.php" afterPath="$PROJECT_DIR$/php/footer.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -116,31 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="41" column="42" lean-forward="false" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="estilos.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/estilos.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="107" column="16" lean-forward="false" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nosotros.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nosotros.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -149,8 +47,28 @@
       <file leaf-file-name="form-contacto.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/form-contacto.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="40" column="24" lean-forward="false" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+            <state relative-caret-position="324">
+              <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cabecera.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/cabecera.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="87" lean-forward="false" selection-start-line="20" selection-start-column="87" selection-end-line="20" selection-end-column="87" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estilos.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/estilos.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="121" column="0" lean-forward="true" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -165,16 +83,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/php/slider.php" />
-        <option value="$PROJECT_DIR$/nosotros.php" />
         <option value="$PROJECT_DIR$/info.php" />
         <option value="$PROJECT_DIR$/php/header.php" />
-        <option value="$PROJECT_DIR$/php/cabecera.php" />
         <option value="$PROJECT_DIR$/grid.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/php/footer.php" />
         <option value="$PROJECT_DIR$/css/grid.css" />
         <option value="$PROJECT_DIR$/form-contacto.php" />
+        <option value="$PROJECT_DIR$/php/footer.php" />
+        <option value="$PROJECT_DIR$/nosotros.php" />
         <option value="$PROJECT_DIR$/css/estilos.css" />
+        <option value="$PROJECT_DIR$/php/cabecera.php" />
       </list>
     </option>
   </component>
@@ -186,7 +104,6 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="684" />
     <option name="width" value="682" />
     <option name="height" value="742" />
   </component>
@@ -215,6 +132,7 @@
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Clase 23-04-2019" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -292,14 +210,17 @@
       <workItem from="1555939469545" duration="4530000" />
       <workItem from="1555955095554" duration="9788000" />
       <workItem from="1555982236647" duration="3736000" />
+      <workItem from="1556046898923" duration="22000" />
+      <workItem from="1556232613368" duration="3477000" />
+      <workItem from="1556332854882" duration="1224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42930000" />
+    <option name="totallyTimeSpent" value="47653000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="684" y="0" width="682" height="742" extended-state="4" />
+    <frame x="0" y="0" width="682" height="742" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52024925" sideWeight="0.4816587" order="0" side_tool="false" content_ui="combo" />
@@ -332,6 +253,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="42" lean-forward="false" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form-contacto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="24" lean-forward="false" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -500,7 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1278">
           <caret line="71" column="1" lean-forward="false" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -569,7 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1278">
           <caret line="71" column="1" lean-forward="true" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -589,21 +548,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/info.php" />
-    <entry file="file://$PROJECT_DIR$/nosotros.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/cabecera.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/slider.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -631,30 +575,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="92" column="21" lean-forward="false" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form-contacto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/php/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/form-contacto.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="40" column="24" lean-forward="false" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/estilos.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="107" column="16" lean-forward="false" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
+        <state relative-caret-position="18">
+          <caret line="121" column="0" lean-forward="true" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nosotros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/cabecera.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="87" lean-forward="false" selection-start-line="20" selection-start-column="87" selection-end-line="20" selection-end-column="87" />
           <folding />
         </state>
       </provider>
