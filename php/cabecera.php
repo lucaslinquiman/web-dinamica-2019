@@ -30,7 +30,7 @@
             <a class="nav-link" href="#">Galeria de Imágenes</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="<?php echo 'http://'.$_SERVER['SERVER_ADDR'].'/form-contacto.php';?>">Contacto</a>
+            <a class="nav-link" href="<?php echo 'http://'.$_SERVER['SERVER_NAME'].'/form-contacto.php';?>">Contacto</a>
         </li>
     </ul>
 </div>
