@@ -13,7 +13,7 @@
     </div>
     <div class="f3 text-muted text-center">
         <a href="https://es-la.facebook.com/TiemposdeBarroCeramica/" target="_blank">
-            <img alt="Siguenos en Facebook" src="images/redes_sociales/logo_tiempos_150.png">
+            <img alt="Siguenos en Facebook" src="/images/redes_sociales/logo_tiempos_150.png">
             <br>
             @TiemposdeBarroCeramica
         </a>

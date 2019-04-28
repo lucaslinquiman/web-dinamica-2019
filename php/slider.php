@@ -7,13 +7,13 @@
         </ul>
         <div class="carousel-inner">
             <div class="carousel-item">
-                <img src="images/img05.jpg" alt="img05">
+                <img src="/images/img05.jpg" alt="img05">
             </div>
             <div class="carousel-item active">
-                <img src="images/img06.jpg" alt="img06">
+                <img src="/images/img06.jpg" alt="img06">
             </div>
             <div class="carousel-item">
-                <img src="images/img03.jpg" alt="img03">
+                <img src="/images/img03.jpg" alt="img03">
             </div>
         </div>
         <a class="carousel-control-prev" href="#sliders" data-slide="prev">

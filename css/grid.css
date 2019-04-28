@@ -114,3 +114,18 @@
     grid-column: f4;
     grid-area: f4;
 }
+
+/* Galeria de imagenes */
+
+.galeria {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-area: contenido;
+    grid-template-areas:
+    "img1   img2    img3    img4"
+    "img5   img6    img7    img8"
+    "img9   img10   img11   img12"
+;
+}
