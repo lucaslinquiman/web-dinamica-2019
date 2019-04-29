@@ -1,5 +1,5 @@
 <?php
-
+    session_start();
     error_reporting(0);
     require_once 'conexion.php';
 
@@ -48,7 +48,7 @@
                     $_SESSION['loggedin'] = true;
                     $_SESSION['name'] = $fila_sql['usuario'];
                     $_SESSION['start'] = time();
-                    $_SESSION['expire'] = $_SESSION['start'] + (5 * 60);
+                    $_SESSION['expire'] = $_SESSION['start'] + (1 * 60);
 
                     //echo "<div><strong>Bienvenido {$fila_sql['usuario']}</strong></div>";
                     header("Location: panel-control.php");
